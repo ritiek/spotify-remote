@@ -1,4 +1,4 @@
-# Spotify-Controls
+# SpotifyRemote
 
 ◘ Control your Spotify Desktop from any local device. It doesn't matter if Spotify Desktop is minimized/ not active.. this will work in every situation!
 
