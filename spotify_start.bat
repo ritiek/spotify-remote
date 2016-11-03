@@ -1,2 +1,3 @@
 @echo off
-C:\Python27\python.exe C:\Users\Pratiek\Desktop\push\spotify_flask.py
+set mypath=%cd%
+C:\Python27\python.exe %mypath%\spotify_flask.py
