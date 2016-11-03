@@ -23,6 +23,7 @@ Now goto `<PCsLocalAddress>:1080` on any local device.
 <img src="http://i.imgur.com/QOTloOO.png" width="290">
 
 (even though its not all that fancy but it does the job)
+
 Have Fun!
 
 ## Running automatically in background on boot:
@@ -45,4 +46,4 @@ I have just compiled the AutoIT script so we can easily pass resprective argumen
 
 If you would like to add more features or improve the Web Interface feel free to Contribute to the project!
 
-The link for the AutoIT website is https://www.autoitscript.com/site/autoit/ (incase you are not familiar with it, should be easy to get its basics)
+The link for the AutoIT website is https://www.autoitscript.com/site/autoit/ (incase you are not familiar with it, should be easy to get the basics)
