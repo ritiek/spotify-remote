@@ -20,7 +20,7 @@ Assuming you have Python 2.7 already installed.
 
 ◘ Run `spotify_start.bat` (edit the Python's installation if you changed the default directory in the .bat file)
 
-◘ Now goto `<PCsLocalAddress>:1080` on any local device.
+◘ Now goto `<PCsLocalAddress>:1080` on any local device. You can edit `spotify_flask.py` if you want to use some other port.
 
 <img src="http://i.imgur.com/QOTloOO.png" width="290">
 
