@@ -42,7 +42,7 @@ Rest of the job of controlling spotify is done using AutoIT (google it if you ar
 ◘ Pressing a button in the WebUI runs `spotify_args.exe` (which is written in AutoIT) and sends the respective command to Spotify Desktop.
 You can open `spotify_args.au3` if you want to take a look at its code.
 
-◘ I have just compiled the AutoIT script so we can easily pass resprective arguments to it (whether we want to pause the song or increase the volume etc.)
+◘ I have just compiled the AutoIT script so we can easily pass respective arguments to it (whether we want to pause the song or increase the volume etc.)
 
 ## Contributing:
 
