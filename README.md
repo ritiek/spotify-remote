@@ -18,6 +18,7 @@ Run the following commands in command prompt:
 Now download the zip file of this repository and extract its contents in the root directory of your Python installation.
 
 Run `spotify_start.bat` (edit the Python's installation if you changed the default directory in the .bat file)
+
 Now goto `<PCsLocalAddress>:1080` on any local device.
 
 <img src="http://i.imgur.com/QOTloOO.png" width="290">
