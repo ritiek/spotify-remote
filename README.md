@@ -13,6 +13,7 @@ Assuming you have Python 2.7 already installed.
 Run the following commands in command prompt:
 
 `cd C:\Python27\Scripts` (or wherever you installed python)
+
 `pip.exe install flask`
 
 Now download the zip file of this repository and extract its contents in the root directory of your Python installation.
