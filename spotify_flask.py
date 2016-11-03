@@ -13,12 +13,12 @@ app = Flask(__name__)
 def my_form():
 	template = '''<html><head></head><body>
 	<form action="." method="POST">
-	<input type="submit" name="submit" value="Pause/Play" style="font-size:36pt;height:150px;width:480px;">
-	<input type="submit" name="submit" value="Increase Vol." style="font-size:36pt;height:150px;width:480px;">
-	<input type="submit" name="submit" value="Decrease Vol." style="font-size:36pt;height:150px;width:480px;">
-	<input type="submit" name="submit" value="Song Up" style="font-size:36pt;height:150px;width:480px;">
-	<input type="submit" name="submit" value="Song Down" style="font-size:36pt;height:150px;width:480px;">
-	<input type="submit" name="submit" value="Toggle Repeat" style="font-size:36pt;height:150px;width:480px;">
+	<input type="submit" name="submit" value="Pause/Play" style="font-size:36pt;height:150px;width:480px;"><br>
+	<input type="submit" name="submit" value="Increase Vol." style="font-size:36pt;height:150px;width:480px;"><br>
+	<input type="submit" name="submit" value="Decrease Vol." style="font-size:36pt;height:150px;width:480px;"><br>
+	<input type="submit" name="submit" value="Song Up" style="font-size:36pt;height:150px;width:480px;"><br>
+	<input type="submit" name="submit" value="Song Down" style="font-size:36pt;height:150px;width:480px;"><br>
+	<input type="submit" name="submit" value="Toggle Repeat" style="font-size:36pt;height:150px;width:480px;"><br>
 	</form></body></html> '''
 	return template
 	#return render_template("flaskie.html")
